@@ -1,0 +1,15 @@
+zotacFoto:
+  from: 'zotac:/home/pirko/Foto/'
+  to: '/mnt/backup/zotac/Foto'
+zotacVideo:
+  from: 'zotac:/home/pirko/Video/'
+  to: '/mnt/backup/zotac/Video'
+zotacHudba:
+  from: 'zotac:/home/pirko/Hudba/'
+  to: '/mnt/backup/zotac/Hudba'
+pirkoHome:
+  from: 'zotac:/home/pirko/'
+  to: '/mnt/backup/zotac/pirkoHome'
+evaHome:
+  from: 'drobecek:/home/eva/'
+  to: '/mnt/backup/drobecek/evaHome'
